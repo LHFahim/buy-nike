@@ -1,0 +1,34 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.test,
+.f {
+  border: 1px solid red;
+}
+
+.banner-title {
+  color: #fa804c;
+}
+.text-color,
+.sub {
+  color: #363958;
+}
+
+.p {
+  color: #3e3e3e;
+}
+
+.header {
+  color: #fff9f4;
+}
+
+.buy-now-btn {
+  background-color: #3a4ade;
+}
+
+@media screen and (max-width: 576px) {
+  .nav-img {
+    width: 100% !important;
+  }
+}
